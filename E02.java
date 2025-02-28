@@ -9,7 +9,7 @@ public class E02{
 		int num1, num2;
 		System.out.print("Introduzca primer numeor por favor ");
 		num1=teclado.nextInt();
-		System.out.print("Introduzca segundo segundo por favor ");
+		Systm.out.print("Introduzca segundo segundo por favor ");
 		num2=teclado.nextInt();
 		
 		if(num1%num2==0){
